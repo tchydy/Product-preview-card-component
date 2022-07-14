@@ -102,12 +102,8 @@ button {
 @media screen and (max-width: 375px) {
  .card-container {
   width: 343px;
-  /* height: 100%; */
  }
- .container{
-  /* padding: 28px 16px 120px 18px; */
-
- }
+ 
  .img-container {
  width: 343px;
  height: 240px;
