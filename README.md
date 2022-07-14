@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/tchydy/Product-preview-card-component)
+- Live Site URL: [Add live site URL here](https://tchydy.github.io/Product-preview-card-component/)
 
 ## My process
 
@@ -66,7 +66,7 @@ Major learnings
 
 ### Continued development
 
-Ad
+Add anaimations and interactivity to the project elements.
 
 ### Useful resources
 
