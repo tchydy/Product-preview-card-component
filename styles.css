@@ -50,10 +50,11 @@ img{
 .product-name {
  margin: 16px 36px 24px 0;
  width: 232px;
+ letter-spacing: -0.28px;
 }
 .product-name, .current-price {
  font-family: 'Fraunces', serif;
- font-size: 29px;
+ font-size: 30px;
  font-weight: 700;
 }
 .product-prices {
@@ -113,6 +114,9 @@ button {
  .product-name {
  margin: 10px 54px 17px 0;
  width: 264px;
+}
+.break {
+  display: none;
 }
 .product-detail{
  width: 298px;
