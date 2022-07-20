@@ -34,9 +34,12 @@ img{
 .product-info {
  padding: 30px 25px;
 }
-.product-info p{
- /* font-size: 12px; */
- line-height: 22px;
+.product-detail{
+ font-size: 14px;
+ font-weight: 300;
+ line-height: 23px;
+ letter-spacing: -0.28px;
+ width: 244px;
 }
 .product-type {
  font-size: 14px;
@@ -46,6 +49,7 @@ img{
 }
 .product-name {
  margin: 16px 36px 24px 0;
+ width: 232px;
 }
 .product-name, .current-price {
  font-family: 'Fraunces', serif;
@@ -55,7 +59,8 @@ img{
 .product-prices {
  display: flex;
  align-items: center;
- margin: 30px 66px 26px 0;
+ width: 202px;
+ margin: 30px 0px 26px 0;
 }
 .current-price {
 margin-right: 20px;
@@ -74,6 +79,8 @@ button {
  justify-content: center;
  align-items: center;
  font-size: 14px;
+ font-weight: 700;
+ letter-spacing: 0.28px;
 }
 .cart{
  background-color: #3D8168;
@@ -103,17 +110,24 @@ button {
  .card-container {
   width: 343px;
  }
- 
+ .product-name {
+ margin: 10px 54px 17px 0;
+ width: 264px;
+}
+.product-detail{
+ width: 298px;
+}
  .img-container {
  width: 343px;
  height: 240px;
  background: url("./image-product-mobile.jpg") center/cover no-repeat;
 }
 .product-prices {
- margin: 49px 66px 26px 0;
+ margin: 47px 0px 18px 0;
+ width: 202px;
 }
 .product-info {
- padding: 22px 11px 21px 24px;
+ padding: 22px 21px 21px 24px;
 }
 .cart{
  padding: 15px 90px;
